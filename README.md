@@ -1,7 +1,8 @@
-<h1>Hi, I'm Daniel! <br/><a href="https://github.com/danielserbu">Programmer</a>, <a href="https://www.linkedin.com/in/daniel-serbu/">Cybersecurity Professional</a>
+<h1>Hi, I'm Daniel! <br/><a href="https://www.linkedin.com/in/daniel-serbu/">Cybersecurity Professional with focus on Ethical Hacking</a> and <a href="https://github.com/danielserbu">Programmer</a> with some years of experience doing automation testing.
 
 <h2> 🤳 Cybersecurity Projects:</h2>
-  
+  - [Keylogger] (https://github.com/danielserbu/Keylogger)
+  - [TextEditorTrojanBackdoor] (https://github.com/danielserbu/TextEditorTrojanBackdoor)
 
 <h2> 🤳 Certifications</h2>
   - [<a href="https://elearnsecurity.com/product/ejpt-certification/">eJPT</a> - eLearnSecurity Junior Penetration Tester] (https://www.youtube.com/watch?v=CmBeSsCn0zM)
