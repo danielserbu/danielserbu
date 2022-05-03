@@ -4,7 +4,7 @@
   
 
 <h2> 🤳 Certifications</h2>
-  - [<a href="https://elearnsecurity.com/product/ejpt-certification/">eJPT</a> - eLearnSecurity Junior Penetration Tester] (https://www.youtube.com/watch?v=sXdPtEo8hk0)
+  - [<a href="https://elearnsecurity.com/product/ejpt-certification/">eJPT</a> - eLearnSecurity Junior Penetration Tester] (https://www.youtube.com/watch?v=CmBeSsCn0zM)
   
 <h2> 🤳 Connect with me:</h2>
 
