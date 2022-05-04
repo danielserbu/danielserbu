@@ -6,6 +6,13 @@ I like creating cybersecurity tools and malware.
 - <b>Python</b> <br/>
   - [Keylogger] (https://github.com/danielserbu/Keylogger) <br/>
   - [TextEditorTrojanBackdoor] (https://github.com/danielserbu/TextEditorTrojanBackdoor) <br/>
+  - [ZipFilePasswordBruteForcer] (https://github.com/danielserbu/ZipFilePasswordBruteForcer) <br/>
+  - [WebLoginBruteForcer] (https://github.com/danielserbu/WebLoginBruteForcer) <br/>
+  - [SSHBruteForcer] (https://github.com/danielserbu/SSHBruteForcer) <br/>
+  - [FTPBruteForcer] (https://github.com/danielserbu/FTPBruteForcer) <br/>
+  - [MacAddressRandomizer] (https://github.com/danielserbu/MacAddressRandomizer) <br/>
+  - [FernetEncryptWebScrapedData] (https://github.com/danielserbu/FernetEncryptWebScrapedData) <br/>
+  - [PolymorphicWormMalware] [WIP] (https://github.com/danielserbu/PolymorphicWormMalware) <br/>
 - <b>Bash</b> <br/>
   - [PortScanner] (todo)
 
