@@ -1,4 +1,4 @@
-<h2>Hi there! <br/> I'm Daniel, <a href="https://www.linkedin.com/in/daniel-serbu/">Cybersecurity Professional with focus on Ethical Hacking</a> and <a href="https://github.com/danielserbu">Programmer</a> </h2>
+<h2>Hi there! <br/> I'm Daniel, <a href="https://www.linkedin.com/in/daniel-serbu/">Cybersecurity Enthusiast with focus on Ethical Hacking</a> and <a href="https://github.com/danielserbu">Programmer</a> </h2>
 
 I like creating cybersecurity tools and malware. <br/>
 <br/>
