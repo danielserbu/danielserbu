@@ -2,7 +2,7 @@
 
 I like creating cybersecurity tools and malware. <br/>
 <br/>
-Skills: Python, Bash, Powershell, C#, Go, Javascript, Automation Testing
+Skills: Python, Bash, Powershell, AutoIt, C#, Go, Javascript, Automation Testing
 <h2> Cybersecurity Projects:</h2>
 - <b>Python</b> <br/>
   - [Keylogger] (https://github.com/danielserbu/Keylogger) <br/>
