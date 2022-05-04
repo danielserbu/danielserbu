@@ -1,7 +1,8 @@
 <h2>Hi there! <br/> I'm Daniel, a <a href="https://www.linkedin.com/in/daniel-serbu/">Cybersecurity Professional with focus on Ethical Hacking</a> and <a href="https://github.com/danielserbu">Programmer</a> </h2>
 
-I like creating cybersecurity tools and malware.
-
+I like creating cybersecurity tools and malware. <br/>
+<br/>
+Skills: Python, Bash, Powershell, C#, Go, Javascript, Automation Testing
 <h2> Cybersecurity Projects:</h2>
 - <b>Python</b> <br/>
   - [Keylogger] (https://github.com/danielserbu/Keylogger) <br/>
