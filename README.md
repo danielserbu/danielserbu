@@ -1,11 +1,19 @@
-<h1>Hi, I'm Daniel! <br/><a href="https://www.linkedin.com/in/daniel-serbu/">Cybersecurity Professional with focus on Ethical Hacking</a> and <a href="https://github.com/danielserbu">Programmer</a> with some years of experience doing automation testing.
+<h2>Hi there! <br/> I'm Daniel, a <a href="https://www.linkedin.com/in/daniel-serbu/">Cybersecurity Professional with focus on Ethical Hacking</a> and <a href="https://github.com/danielserbu">Programmer</a> </h2>
 
-<h2> 🤳 Cybersecurity Projects:</h2>
-  - [Keylogger] (https://github.com/danielserbu/Keylogger)
-  - [TextEditorTrojanBackdoor] (https://github.com/danielserbu/TextEditorTrojanBackdoor)
+I like creating cybersecurity tools and malware.
 
-<h2> 🤳 Certifications</h2>
-  - [<a href="https://elearnsecurity.com/product/ejpt-certification/">eJPT</a> - eLearnSecurity Junior Penetration Tester] (https://www.youtube.com/watch?v=CmBeSsCn0zM)
+<h2> Cybersecurity Projects:</h2>
+- <b>Python</b> <br/>
+  - [Keylogger] (https://github.com/danielserbu/Keylogger) <br/>
+  - [TextEditorTrojanBackdoor] (https://github.com/danielserbu/TextEditorTrojanBackdoor) <br/>
+- <b>Bash</b> <br/>
+  - [PortScanner] (todo)
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=danielserbu&count_private=true&show_icons=true&theme=radical&include_all_commits=true)](https://github.com/anuraghazra/github-readme-stats)
+
+<h2> Certifications</h2>
+  - [<a href="https://elearnsecurity.com/product/ejpt-certification/">eJPT</a> - eLearnSecurity Junior Penetration Tester] (https://www.youtube.com/watch?v=CmBeSsCn0zM) <br />
+  - PNPT (WIP)
   
 <h2> 🤳 Connect with me:</h2>
 
