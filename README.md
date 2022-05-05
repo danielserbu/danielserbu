@@ -1,11 +1,11 @@
-<h2>Hi there! <br/> I'm Daniel, <a href="https://www.linkedin.com/in/daniel-serbu/">Cybersecurity Enthusiast with focus on Ethical Hacking</a> and <a href="https://github.com/danielserbu">Programmer</a> </h2>
+<h2>Hi there! <br/> I'm Daniel, <a href="https://www.linkedin.com/in/daniel-serbu/">Cybersecurity Professional with focus on Ethical Hacking</a> and <a href="https://github.com/danielserbu">Programmer</a> </h2>
 
 I like creating cybersecurity tools and malware. <br/>
 <br/>
 Skills: Python, Bash, Powershell, AutoIt, C#, Go, Javascript, Automation Testing
 <h2> Cybersecurity Projects:</h2>
 - <b>Python</b> <br/>
-  - [Keylogger] (https://github.com/danielserbu/Keylogger) <br/>
+  - [Keylogger]: (https://github.com/danielserbu/Keylogger) <br/>
   - [TextEditorTrojanBackdoor] (https://github.com/danielserbu/TextEditorTrojanBackdoor) <br/>
   - [ZipFilePasswordBruteForcer] (https://github.com/danielserbu/ZipFilePasswordBruteForcer) <br/>
   - [WebLoginBruteForcer] (https://github.com/danielserbu/WebLoginBruteForcer) <br/>
