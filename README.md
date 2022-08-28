@@ -20,7 +20,7 @@ Skills: Python, Bash, Powershell, AutoIt, C#, Javascript
   - [Subdomain Enumerator] (todo)
 - <b>Bash</b> <br/>
   - [PortScanner] (todo)
-
+ 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=danielserbu&count_private=true&show_icons=true&theme=radical&include_all_commits=true)](https://github.com/anuraghazra/github-readme-stats)
 
 <h2> Certifications</h2>
