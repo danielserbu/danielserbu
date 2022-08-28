@@ -1,6 +1,6 @@
 <h2>Hi there! <br/> I'm Daniel, <a href="https://www.linkedin.com/in/daniel-serbu/">Cybersecurity Professional with focus on Ethical Hacking</a> and <a href="https://github.com/danielserbu">Programmer</a> </h2>
 
-I like creating cybersecurity tools and malware. For the moment all my work is experimental with learning purposes. <br/>
+I like creating cybersecurity tools and malware. <br/> For the moment all my work is experimental with learning purposes. <br/>
 <br/>
 Skills: Python, Bash, Powershell, AutoIt, C#, Javascript
 <h2> Cybersecurity Projects:</h2>
@@ -14,10 +14,10 @@ Skills: Python, Bash, Powershell, AutoIt, C#, Javascript
   - [MacAddressRandomizer] (https://github.com/danielserbu/MacAddressRandomizer) <br/>
   - [FernetEncryptWebScrapedData] (https://github.com/danielserbu/FernetEncryptWebScrapedData) <br/>
   - [PolymorphicWormMalware] [WIP] (https://github.com/danielserbu/PolymorphicWormMalware) <br/>
-  - [XSS Vuln scanner] (todo)
-  - [SQL Injection Scanner] (todo)
-  - [Port Scanner] (todo)
-  - [Subdomain Enumerator] (todo)
+  - [XSS Vuln scanner] (todo) <br/>
+  - [SQL Injection Scanner] (todo) <br/>
+  - [Port Scanner] (todo) <br/>
+  - [Subdomain Enumerator] (todo) <br/>
 - <b>Bash</b> <br/>
   - [PortScanner] (todo)
  
@@ -25,7 +25,7 @@ Skills: Python, Bash, Powershell, AutoIt, C#, Javascript
 
 <h2> Certifications</h2>
   - [<a href="https://elearnsecurity.com/product/ejpt-certification/">eJPT</a> - eLearnSecurity Junior Penetration Tester] (https://www.youtube.com/watch?v=CmBeSsCn0zM) <br />
-  - HTB CBBH (WIP)
+  - HTB CBBH (WIP) <br/>
   - TCM PNPT (WIP)
   
 <h2> 🤳 Connect with me:</h2>
