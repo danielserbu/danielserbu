@@ -13,7 +13,7 @@ Skills: Python, Bash, Powershell, AutoIt, C#, Javascript
   - [FTPBruteForcer] (https://github.com/danielserbu/FTPBruteForcer) <br/>
   - [MacAddressRandomizer] (https://github.com/danielserbu/MacAddressRandomizer) <br/>
   - [FernetEncryptWebScrapedData] (https://github.com/danielserbu/FernetEncryptWebScrapedData) <br/>
-  - [SeleniumTestXVWACommandInjection (https://github.com/danielserbu/SeleniumTestXVWACommandInjection) <br/>
+  - [SeleniumTestXVWACommandInjection] (https://github.com/danielserbu/SeleniumTestXVWACommandInjection) <br/>
   - [XSS Vuln scanner] (todo) <br/>
   - [SQL Injection Scanner] (todo) <br/>
   - [Port Scanner] (todo) <br/>
