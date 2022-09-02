@@ -15,7 +15,7 @@ Skills: Python, Bash, Powershell, AutoIt, C#, Javascript
   - [FernetEncryptWebScrapedData] (https://github.com/danielserbu/FernetEncryptWebScrapedData) <br/>
   - [SeleniumTestXVWACommandInjection] (https://github.com/danielserbu/SeleniumTestXVWACommandInjection) <br/>
   - [SeleniumTestXVWAFileInclusion] (https://github.com/danielserbu/SeleniumTestXVWAFileInclusion) <br/>
-  - [XSS Vuln scanner] (todo) <br/>
+  - [SeleniumTestXVWAReflectedXSS] (https://github.com/danielserbu/SeleniumTestXVWAReflectedXSS) <br/>
   - [SQL Injection Scanner] (todo) <br/>
   - [Port Scanner] (todo) <br/>
   - [Subdomain Enumerator] (todo) <br/>
