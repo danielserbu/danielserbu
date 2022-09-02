@@ -1,4 +1,4 @@
-<h2>Hi there! <br/> I'm Daniel, <a href="https://www.linkedin.com/in/daniel-serbu/">Cybersecurity Professional with focus on Ethical Hacking</a> and <a href="https://github.com/danielserbu">Programmer</a> </h2>
+<h2>Hi there! <br/> I'm Daniel, <a href="https://www.linkedin.com/in/daniel-serbu/">Cybersecurity Professional with focus on Penetration Testing</a> and <a href="https://github.com/danielserbu">Programmer</a> </h2>
 
 I like creating cybersecurity tools and malware. <br/> For the moment all my work is experimental with learning purposes. <br/>
 <br/>
@@ -13,11 +13,12 @@ Skills: Python, Bash, Powershell, AutoIt, C#, Javascript
   - [FTPBruteForcer] (https://github.com/danielserbu/FTPBruteForcer) <br/>
   - [MacAddressRandomizer] (https://github.com/danielserbu/MacAddressRandomizer) <br/>
   - [FernetEncryptWebScrapedData] (https://github.com/danielserbu/FernetEncryptWebScrapedData) <br/>
-  - [PolymorphicWormMalware] [WIP] (https://github.com/danielserbu/PolymorphicWormMalware) <br/>
+  - [SeleniumTestXVWACommandInjection (https://github.com/danielserbu/SeleniumTestXVWACommandInjection) <br/>
   - [XSS Vuln scanner] (todo) <br/>
   - [SQL Injection Scanner] (todo) <br/>
   - [Port Scanner] (todo) <br/>
   - [Subdomain Enumerator] (todo) <br/>
+  - [PolymorphicWormMalware] (todo)(https://github.com/danielserbu/PolymorphicWormMalware) <br/>
 - <b>Bash</b> <br/>
   - [PortScanner] (todo)
  
