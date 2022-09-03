@@ -16,7 +16,7 @@ Skills: Python, Bash, Powershell, AutoIt, C#, Javascript
   - [SeleniumTestXVWACommandInjection] (https://github.com/danielserbu/SeleniumTestXVWACommandInjection) <br/>
   - [SeleniumTestXVWAFileInclusion] (https://github.com/danielserbu/SeleniumTestXVWAFileInclusion) <br/>
   - [SeleniumTestXVWAReflectedXSS] (https://github.com/danielserbu/SeleniumTestXVWAReflectedXSS) <br/>
-  - [vapiSecurityTests] (https://github.com/danielserbu/vapiSecurityTests.git) <br/>
+  - [vapiSecurityTests] (https://github.com/danielserbu/vapiSecurityTests) <br/>
   - [SQL Injection Scanner] (todo) <br/>
   - [Port Scanner] (todo) <br/>
   - [Subdomain Enumerator] (todo) <br/>
