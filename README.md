@@ -20,6 +20,7 @@ Skills: Python, Bash, Powershell, AutoIt, C#, Javascript
   - [SQL Injection Scanner] (todo) <br/>
   - [Port Scanner] (todo) <br/>
   - [Subdomain Enumerator] (todo) <br/>
+  - [Fuzzing Tool] (todo) <br/>
   - [PolymorphicWormMalware] (todo)(https://github.com/danielserbu/PolymorphicWormMalware) <br/>
 - <b>Bash</b> <br/>
   - [PortScanner] (todo)
