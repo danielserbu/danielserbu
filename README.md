@@ -27,8 +27,7 @@
 
 <h2> Certifications</h2>
   - [<a href="https://elearnsecurity.com/product/ejpt-certification/">eJPT</a> - eLearnSecurity Junior Penetration Tester] (https://www.youtube.com/watch?v=CmBeSsCn0zM) <br />
-  - HTB CBBH (WIP) <br/>
-  - TCM PNPT (WIP)
+  - More to come <br />
   
 <h2> 🤳 Connect with me:</h2>
 
