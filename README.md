@@ -1,4 +1,4 @@
-<h3>Hi there! <br/> I'm passionate about Cybersecurity, Penetration Testing, AppSec, DevSecOps and Test Automation. <br/>Sometimes I like to create cybersecurity tools and malware (experimental for the time being). </h3>
+<h3>Hi there! <br/> I'm passionate about Cybersecurity, Penetration Testing, AppSec, DevSecOps and Automating things. <br/>Sometimes I like to create cybersecurity tools and malware (experimental for the time being). </h3>
 
 <h2> 🤳 Connect with me:</h2>
 
