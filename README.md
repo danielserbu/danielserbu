@@ -26,7 +26,7 @@
   - [SeleniumTestXVWAFileInclusion] (https://github.com/danielserbu/SeleniumTestXVWAFileInclusion) <br/>
   - [SeleniumTestXVWAReflectedXSS] (https://github.com/danielserbu/SeleniumTestXVWAReflectedXSS) <br/>
   - [VAmPISecurityTests] (https://github.com/danielserbu/VAmPISecurityTests) <br/>
-  - [Web App Fuzzer] (https://github.com/danielserbu/Fuzzer) <br/>
+  - [Web App Fuzzing Tool] (https://github.com/danielserbu/MeinFuzzer) <br/>
   - [ZipFilePasswordBruteForcer] (https://github.com/danielserbu/ZipFilePasswordBruteForcer) <br/>
   - [WebLoginBruteForcer] (https://github.com/danielserbu/WebLoginBruteForcer) <br/>
   - [SSHBruteForcer] (https://github.com/danielserbu/SSHBruteForcer) <br/>
