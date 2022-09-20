@@ -27,7 +27,7 @@
   - [SeleniumTestXVWAReflectedXSS] (https://github.com/danielserbu/SeleniumTestXVWAReflectedXSS) <br/>
   - [VAmPISecurityTests] (https://github.com/danielserbu/VAmPISecurityTests) <br/>
   - [Web App Fuzzing Tool] (https://github.com/danielserbu/MeinFuzzer) <br/>
-  - [Network Mapper] (https://github.com/danielserbu/MeinPortScanner) <br/>
+  - [Network Mapper] (WIP) (https://github.com/danielserbu/MeinPortScanner) <br/>
   - [ZipFilePasswordBruteForcer] (https://github.com/danielserbu/ZipFilePasswordBruteForcer) <br/>
   - [WebLoginBruteForcer] (https://github.com/danielserbu/WebLoginBruteForcer) <br/>
   - [SSHBruteForcer] (https://github.com/danielserbu/SSHBruteForcer) <br/>
