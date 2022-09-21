@@ -35,6 +35,11 @@
   - [MacAddressRandomizer] (https://github.com/danielserbu/MacAddressRandomizer) <br/>
   - [FernetEncryptWebScrapedData] (https://github.com/danielserbu/FernetEncryptWebScrapedData) <br/>
   - [PolymorphicWormMalware] (todo)<br/>
+  - [WiFi Scanner] (todo) <br/>
+  - [WiFi password extractor] (todo) <br/>
+  - [ARP spoofer] (todo) <br/>
+  - [DNS spoofer] (todo) <br/>
+  - [HTTP Proxy] (todo) <br/>
 - <b>Bash</b> <br/>
   - [PortScanner] (todo)
  
