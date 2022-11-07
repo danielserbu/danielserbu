@@ -18,7 +18,7 @@
 <br />
 
 <h4> Skills: Python, Bash, Powershell, AutoIt, C#, Javascript </h4>
-<h4> Cybersecurity Projects:</h4>
+<h4> Generic Cybersecurity Projects:</h4>
 - <b>Python</b> <br/>
   - [Keylogger]: (https://github.com/danielserbu/Keylogger) <br/>
   - [TextEditorTrojanBackdoor] (https://github.com/danielserbu/TextEditorTrojanBackdoor) <br/>
@@ -42,13 +42,14 @@
   - [HTTP Proxy] (todo) <br/>
 - <b>Bash</b> <br/>
   - [PortScanner] (todo)
+
+<h4> Personal Helpful for CyberSecurity Consultancy:</h4>
+- <b>- [PenTest Helpful Scripts]: (https://github.com/danielserbu/PenTest-Helpful-Scripts) </b> <br/>
+- <b>- [CherryTree PenTest Templates]: (https://github.com/danielserbu/CherryTree-PenTest-Templates) </b> <br/>
+- <b>- [ToDo]: Obsidian Template </b> <br/>
  
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=danielserbu&count_private=true&show_icons=true&theme=radical&include_all_commits=true)](https://github.com/anuraghazra/github-readme-stats)
 
-<h2> Certifications</h2>
-  - [<a href="https://elearnsecurity.com/product/ejpt-certification/">eJPT</a> - eLearnSecurity Junior Penetration Tester] (https://www.youtube.com/watch?v=CmBeSsCn0zM) <br />
-  - More to come <br />
-  
 <!--
 **danielserbu/danielserbu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
