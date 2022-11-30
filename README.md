@@ -43,8 +43,9 @@
 - <b>Bash</b> <br/>
   - [PortScanner] (todo)
 
-<h4> Personal Helpful for CyberSecurity Consultancy:</h4>
+<h4> Personal Security Testing Utils:</h4>
 - <b>- [PenTest Helpful Scripts]: (https://github.com/danielserbu/PenTest-Helpful-Scripts) </b> <br/>
+- <b>- [GCP Security Utils]: (https://github.com/danielserbu/gcp-security-utils) </b> <br/>
 - <b>- [CherryTree PenTest Templates]: (https://github.com/danielserbu/CherryTree-PenTest-Templates) </b> <br/>
 - <b>- [ToDo]: Obsidian Template </b> <br/>
  
