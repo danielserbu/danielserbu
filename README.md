@@ -34,7 +34,7 @@
   - [FTPBruteForcer] (https://github.com/danielserbu/FTPBruteForcer) <br/>
   - [MacAddressRandomizer] (https://github.com/danielserbu/MacAddressRandomizer) <br/>
   - [FernetEncryptWebScrapedData] (https://github.com/danielserbu/FernetEncryptWebScrapedData) <br/>
-  - [VulnerableFastAPI]: (https://github.com/danielserbu/VulnerableFastAPI) </b>
+  - [VulnerableFastAPI]: (https://github.com/danielserbu/VulnerableFastAPI) <br/>
   - [PolymorphicWormMalware] (todo)<br/>
   - [WiFi Scanner] (todo) <br/>
   - [WiFi password extractor] (todo) <br/>
