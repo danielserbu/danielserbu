@@ -34,6 +34,7 @@
   - [FTPBruteForcer] (https://github.com/danielserbu/FTPBruteForcer) <br/>
   - [MacAddressRandomizer] (https://github.com/danielserbu/MacAddressRandomizer) <br/>
   - [FernetEncryptWebScrapedData] (https://github.com/danielserbu/FernetEncryptWebScrapedData) <br/>
+  - [VulnerableFastAPI]: (https://github.com/danielserbu/VulnerableFastAPI) </b>
   - [PolymorphicWormMalware] (todo)<br/>
   - [WiFi Scanner] (todo) <br/>
   - [WiFi password extractor] (todo) <br/>
@@ -48,6 +49,9 @@
 - <b>- [GCP Security Utils]: (https://github.com/danielserbu/gcp-security-utils) </b> <br/>
 - <b>- [CherryTree PenTest Templates]: (https://github.com/danielserbu/CherryTree-PenTest-Templates) </b> <br/>
 - <b>- [ToDo]: Obsidian Template </b> <br/>
+
+<h4> Other stuff:</h4>
+- <b>- [PythonMCQ]: (https://github.com/danielserbu/PythonMCQ) </b> <br/>
  
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=danielserbu&count_private=true&show_icons=true&theme=radical&include_all_commits=true)](https://github.com/anuraghazra/github-readme-stats)
 
