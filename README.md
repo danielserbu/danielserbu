@@ -1,4 +1,4 @@
-<h3>Hi there! <br/> I'm passionate about Cybersecurity, Penetration Testing, AppSec, DevSecOps and Automating things. <br/>Sometimes I like to create cybersecurity tools. </h3>
+## 🛡️ Cybersecurity Professional | 🌐 Penetration Testing | 🚀 AppSec | 🤖 DevSecOps | 🔧 Tool Development
 
 <h2> 🤳 Connect with me:</h2>
 
@@ -18,7 +18,7 @@
 <br />
 
 <h4> Skills: Python, Bash, Powershell, AutoIt, C#, Javascript </h4>
-<h4> Generic Cybersecurity Projects:</h4>
+<h4> Some of my Cybersecurity Projects:</h4>
 - <b>Python</b> <br/>
   - [Keylogger]: (https://github.com/danielserbu/Keylogger) <br/>
   - [TextEditorTrojanBackdoor] (https://github.com/danielserbu/TextEditorTrojanBackdoor) <br/>
@@ -35,23 +35,19 @@
   - [MacAddressRandomizer] (https://github.com/danielserbu/MacAddressRandomizer) <br/>
   - [FernetEncryptWebScrapedData] (https://github.com/danielserbu/FernetEncryptWebScrapedData) <br/>
   - [VulnerableFastAPI]: (https://github.com/danielserbu/VulnerableFastAPI) <br/>
-  - [PolymorphicWormMalware] (todo)<br/>
-  - [WiFi Scanner] (todo) <br/>
-  - [WiFi password extractor] (todo) <br/>
-  - [ARP spoofer] (todo) <br/>
-  - [DNS spoofer] (todo) <br/>
-  - [HTTP Proxy] (todo) <br/>
-- <b>Bash</b> <br/>
-  - [PortScanner] (todo)
-
+<!--  - [WiFi Scanner] (todo) <br/>
+  - [WiFi password extractor] (todo) <br/> -->
+<!--- <b>Bash</b> <br/>
+  - [PortScanner] (todo) -->
+<!--
 <h4> Personal Security Testing Utils:</h4>
 - <b>- [PenTest Helpful Scripts]: (https://github.com/danielserbu/PenTest-Helpful-Scripts) </b> <br/>
-- <b>- [GCP Security Utils]: (https://github.com/danielserbu/gcp-security-utils) </b> <br/>
+- <b>- [GCP Security Utils]: (https://github.com/danielserbu/gcp-security-utils) </b> <br/> 
 - <b>- [CherryTree PenTest Templates]: (https://github.com/danielserbu/CherryTree-PenTest-Templates) </b> <br/>
-- <b>- [ToDo]: Obsidian Template </b> <br/>
+- <b>- [ToDo]: Obsidian Template </b> <br/> <!--
 
-<h4> Other stuff:</h4>
-- <b>- [PythonMCQ]: (https://github.com/danielserbu/PythonMCQ) </b> <br/>
+<!--<h4> Other stuff:</h4>
+- <b>- [PythonMCQ]: (https://github.com/danielserbu/PythonMCQ) </b> <br/> -->
  
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=danielserbu&count_private=true&show_icons=true&theme=radical&include_all_commits=true)](https://github.com/anuraghazra/github-readme-stats)
 
