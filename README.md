@@ -1,49 +1,42 @@
-## 🛡️ Cybersecurity Professional | 🌐 Penetration Testing | 🚀 AppSec | 🤖 DevSecOps | 🔧 Tool Development
+## Daniel Serbu
 
-<h2> 🤳 Connect with me:</h2>
+Cybersecurity professional specializing in penetration testing, application security, and DevSecOps. Focused on building security tools and automating security testing workflows.
 
-<!-- [<img align="left" alt="Daniel Serbu | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter] -->
-[<img align="left" alt="Daniel Serbu | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-  
+### Connect
+
+[<img align="left" alt="LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[<img align="left" alt="PenTesting Resources" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/github.svg" />][gitbook]
+[<img align="left" alt="Blog" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/wordpress.svg" />][wordpress]
+
 [linkedin]: https://linkedin.com/in/daniel-serbu
-
-[<img align="left" alt="Daniel Serbu | GitBook PenTesting Resources" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/github.svg" />][gitbook]
-  
 [gitbook]: https://daniel-serbu.gitbook.io/
-  
-[<img align="left" alt="Daniel Serbu | Wordpress Blog" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/wordpress.svg" />][wordpress]
-  
 [wordpress]: https://serbudaniel.wordpress.com/
 
 <br />
 
-<h4> Skills: Python, Bash, Powershell, AutoIt, C#, Javascript </h4>
-<h4> Some of my Cybersecurity Projects:</h4>
-- <b>Python</b> <br/>
-  - [Keylogger]: (https://github.com/danielserbu/Keylogger) <br/>
-  - [TextEditorTrojanBackdoor] (https://github.com/danielserbu/TextEditorTrojanBackdoor) <br/>
-  - [SeleniumTestXVWACommandInjection] (https://github.com/danielserbu/SeleniumTestXVWACommandInjection) <br/>
-  - [SeleniumTestXVWAFileInclusion] (https://github.com/danielserbu/SeleniumTestXVWAFileInclusion) <br/>
-  - [SeleniumTestXVWAReflectedXSS] (https://github.com/danielserbu/SeleniumTestXVWAReflectedXSS) <br/>
-  - [VAmPISecurityTests] (https://github.com/danielserbu/VAmPISecurityTests) <br/>
-  - [Web App Fuzzing Tool] (https://github.com/danielserbu/MeinFuzzer) <br/>
-  - [Network Mapper] (WIP) (https://github.com/danielserbu/MeinPortScanner) <br/>
-  - [ZipFilePasswordBruteForcer] (https://github.com/danielserbu/ZipFilePasswordBruteForcer) <br/>
-  - [WebLoginBruteForcer] (https://github.com/danielserbu/WebLoginBruteForcer) <br/>
-  - [SSHBruteForcer] (https://github.com/danielserbu/SSHBruteForcer) <br/>
-  - [FTPBruteForcer] (https://github.com/danielserbu/FTPBruteForcer) <br/>
-  - [MacAddressRandomizer] (https://github.com/danielserbu/MacAddressRandomizer) <br/>
-  - [FernetEncryptWebScrapedData] (https://github.com/danielserbu/FernetEncryptWebScrapedData) <br/>
-  - [VulnerableFastAPI]: (https://github.com/danielserbu/VulnerableFastAPI) <br/>
-<!--  - [WiFi Scanner] (todo) <br/>
-  - [WiFi password extractor] (todo) <br/> -->
-<!--- <b>Bash</b> <br/>
-  - [PortScanner] (todo) -->
-<!--
-<h4> Personal Security Testing Utils:</h4>
-- <b>- [PenTest Helpful Scripts]: (https://github.com/danielserbu/PenTest-Helpful-Scripts) </b> <br/>
-- <b>- [GCP Security Utils]: (https://github.com/danielserbu/gcp-security-utils) </b> <br/> 
-- <b>- [CherryTree PenTest Templates]: (https://github.com/danielserbu/CherryTree-PenTest-Templates) </b> <br/>
-- <b>- [ToDo]: Obsidian Template </b> <br/> <!--
+### Technical Skills
 
--->
+**Languages:** Python, Bash, PowerShell, C#, JavaScript, AutoIt
+
+### Security Projects
+
+**Automated Security Testing**
+- [VAmPISecurityTests](https://github.com/danielserbu/VAmPISecurityTests) - Automated security tests for vulnerable API
+- [SeleniumTestXVWACommandInjection](https://github.com/danielserbu/SeleniumTestXVWACommandInjection) - Automated command injection testing
+- [SeleniumTestXVWAFileInclusion](https://github.com/danielserbu/SeleniumTestXVWAFileInclusion) - File inclusion vulnerability testing
+- [SeleniumTestXVWAReflectedXSS](https://github.com/danielserbu/SeleniumTestXVWAReflectedXSS) - XSS vulnerability detection
+- [VulnerableFastAPI](https://github.com/danielserbu/VulnerableFastAPI) - Intentionally vulnerable FastAPI for testing
+
+**Security Tools**
+- [MeinFuzzer](https://github.com/danielserbu/MeinFuzzer) - Web application fuzzing tool
+- [MeinPortScanner](https://github.com/danielserbu/MeinPortScanner) - Network mapping tool (WIP)
+- [WebLoginBruteForcer](https://github.com/danielserbu/WebLoginBruteForcer) - Web authentication testing
+- [SSHBruteForcer](https://github.com/danielserbu/SSHBruteForcer) - SSH security testing
+- [FTPBruteForcer](https://github.com/danielserbu/FTPBruteForcer) - FTP security testing
+- [ZipFilePasswordBruteForcer](https://github.com/danielserbu/ZipFilePasswordBruteForcer) - Archive password recovery
+
+**Research & Development**
+- [Keylogger](https://github.com/danielserbu/Keylogger) - Educational keylogger implementation
+- [TextEditorTrojanBackdoor](https://github.com/danielserbu/TextEditorTrojanBackdoor) - Malware analysis research
+- [MacAddressRandomizer](https://github.com/danielserbu/MacAddressRandomizer) - Network privacy tool
+- [FernetEncryptWebScrapedData](https://github.com/danielserbu/FernetEncryptWebScrapedData) - Data encryption utilities
