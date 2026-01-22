@@ -10,7 +10,7 @@ Cybersecurity professional specializing in penetration testing, application secu
 
 [linkedin]: https://linkedin.com/in/daniel-serbu
 [website]: https://danielserbu.github.io/
-[gitbook]: https://daniel-serbu.gitbook.io/
+[gitbook]: https://danielserbu.gitbook.io/
 <br />
 
 ### Technical Skills
